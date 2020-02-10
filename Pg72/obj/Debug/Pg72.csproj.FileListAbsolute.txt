@@ -1,0 +1,7 @@
+c:\users\maggi\source\repos\Pg72\Pg72\bin\Debug\Pg72.exe.config
+c:\users\maggi\source\repos\Pg72\Pg72\bin\Debug\Pg72.exe
+c:\users\maggi\source\repos\Pg72\Pg72\bin\Debug\Pg72.pdb
+c:\users\maggi\source\repos\Pg72\Pg72\obj\Debug\Pg72.csprojAssemblyReference.cache
+c:\users\maggi\source\repos\Pg72\Pg72\obj\Debug\Pg72.csproj.CoreCompileInputs.cache
+c:\users\maggi\source\repos\Pg72\Pg72\obj\Debug\Pg72.exe
+c:\users\maggi\source\repos\Pg72\Pg72\obj\Debug\Pg72.pdb
