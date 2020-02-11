@@ -1,0 +1,7 @@
+c:\users\maggi\source\repos\pg89\pg89\obj\Debug\pg89.csprojAssemblyReference.cache
+c:\users\maggi\source\repos\pg89\pg89\obj\Debug\pg89.csproj.CoreCompileInputs.cache
+c:\users\maggi\source\repos\pg89\pg89\bin\Debug\pg89.exe.config
+c:\users\maggi\source\repos\pg89\pg89\bin\Debug\pg89.exe
+c:\users\maggi\source\repos\pg89\pg89\bin\Debug\pg89.pdb
+c:\users\maggi\source\repos\pg89\pg89\obj\Debug\pg89.exe
+c:\users\maggi\source\repos\pg89\pg89\obj\Debug\pg89.pdb
