@@ -22,13 +22,13 @@ namespace Assignment_pg131
             Console.WriteLine(upperCase1);
             Console.ReadLine();
 
-            System.Text.StringBuilder builder = new System.Text.StringBuilder("Names");
-            builder.Append(", ");
-            builder.Append("Sarah");
-            builder.Append(", Phil");
-            builder.Insert(0, "Tara, ");
-            builder.Insert(10, 900);
-            builder.Append(", ");
+            StringBuilder builder = new StringBuilder("Paragraph");
+            builder.Append(", This paragraph is about me ");
+            builder.Append("My name is reagan.");
+            builder.Append("I am 19 years old.");
+            builder.Append("I am a student at the Tech Academy");
+            builder.Append("I am currently learning to code.");
+            builder.Append("I am doing this assignment for my school");
             Console.WriteLine(builder);
 
             Console.ReadLine();
