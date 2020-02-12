@@ -1,0 +1,7 @@
+C:\Users\maggi\source\repos\pg123\pg123\obj\Debug\pg123.csprojAssemblyReference.cache
+C:\Users\maggi\source\repos\pg123\pg123\obj\Debug\pg123.csproj.CoreCompileInputs.cache
+C:\Users\maggi\source\repos\pg123\pg123\bin\Debug\pg123.exe.config
+C:\Users\maggi\source\repos\pg123\pg123\bin\Debug\pg123.exe
+C:\Users\maggi\source\repos\pg123\pg123\bin\Debug\pg123.pdb
+C:\Users\maggi\source\repos\pg123\pg123\obj\Debug\pg123.exe
+C:\Users\maggi\source\repos\pg123\pg123\obj\Debug\pg123.pdb
