@@ -5,3 +5,10 @@ C:\Users\maggi\source\repos\pg 126\pg 126\obj\Debug\pg 126.csprojAssemblyReferen
 C:\Users\maggi\source\repos\pg 126\pg 126\obj\Debug\pg 126.csproj.CoreCompileInputs.cache
 C:\Users\maggi\source\repos\pg 126\pg 126\obj\Debug\pg 126.exe
 C:\Users\maggi\source\repos\pg 126\pg 126\obj\Debug\pg 126.pdb
+C:\Users\maggi\OneDrive\Documents\GitHub\AJAX\The-Tech-Academy-C-Sharp-Coding-Projects\pg 126\pg 126\obj\Debug\pg 126.csprojAssemblyReference.cache
+C:\Users\maggi\OneDrive\Documents\GitHub\AJAX\The-Tech-Academy-C-Sharp-Coding-Projects\pg 126\pg 126\obj\Debug\pg 126.csproj.CoreCompileInputs.cache
+C:\Users\maggi\OneDrive\Documents\GitHub\AJAX\The-Tech-Academy-C-Sharp-Coding-Projects\pg 126\pg 126\obj\Debug\pg 126.exe
+C:\Users\maggi\OneDrive\Documents\GitHub\AJAX\The-Tech-Academy-C-Sharp-Coding-Projects\pg 126\pg 126\obj\Debug\pg 126.pdb
+C:\Users\maggi\OneDrive\Documents\GitHub\AJAX\The-Tech-Academy-C-Sharp-Coding-Projects\pg 126\pg 126\bin\Debug\pg 126.exe.config
+C:\Users\maggi\OneDrive\Documents\GitHub\AJAX\The-Tech-Academy-C-Sharp-Coding-Projects\pg 126\pg 126\bin\Debug\pg 126.exe
+C:\Users\maggi\OneDrive\Documents\GitHub\AJAX\The-Tech-Academy-C-Sharp-Coding-Projects\pg 126\pg 126\bin\Debug\pg 126.pdb
