@@ -9,8 +9,8 @@ namespace pg_147
         {
             var numbers = new List<int>() { 20, 34, 56, 72 };
             
-            bool Keeplooping = true;
-            while (Keeplooping == true)
+            bool KeepLooping = true;
+            while (KeepLooping == true)
             {
                 {
                     Console.WriteLine("Please pick a number to divide each list interger by: ");
@@ -21,19 +21,23 @@ namespace pg_147
                         {
                             string result = Convert.ToString((i / userInput));
                             Console.WriteLine(i + " divided by " + userInput + " = " + result);
+                            
+
                         }
                         Console.ReadLine();
-
+                        
                     }
                     catch
                     {
                         Console.WriteLine("Please selecct a valid index");
                     }
                     Console.WriteLine("program has emerged from the try/catch block and continued on with program execution");
+                    KeepLooping = false;
                     Console.ReadLine();
                 }
 
             }
+            
         }
     }
 }
