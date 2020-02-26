@@ -1,0 +1,7 @@
+C:\Users\maggi\source\repos\pg 159\pg 159\obj\Debug\pg 159.csprojAssemblyReference.cache
+C:\Users\maggi\source\repos\pg 159\pg 159\obj\Debug\pg 159.csproj.CoreCompileInputs.cache
+C:\Users\maggi\source\repos\pg 159\pg 159\bin\Debug\pg 159.exe.config
+C:\Users\maggi\source\repos\pg 159\pg 159\bin\Debug\pg 159.exe
+C:\Users\maggi\source\repos\pg 159\pg 159\bin\Debug\pg 159.pdb
+C:\Users\maggi\source\repos\pg 159\pg 159\obj\Debug\pg 159.exe
+C:\Users\maggi\source\repos\pg 159\pg 159\obj\Debug\pg 159.pdb
