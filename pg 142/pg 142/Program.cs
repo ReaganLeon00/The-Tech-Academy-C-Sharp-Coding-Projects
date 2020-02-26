@@ -61,7 +61,7 @@ namespace Assignment_pg146
             {
                 Console.WriteLine(listItem);
             }
-            Console.ReadLine();
+            
             
             string userInput = Console.ReadLine();
             for (int x = 0; x < listItems.Count; x++)
