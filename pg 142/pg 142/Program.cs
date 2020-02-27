@@ -102,18 +102,19 @@ namespace Assignment_pg146
             List<string> listItems3 = new List<string>() { "Phil", "Carrie", "Sam", "Sarah", "Sarah" };
             List<string> duplicateList = new List<string>();
             for (int t = 0; t < listItems3.Count; t++)
-                Console.WriteLine(listItems3[t]);
-                //if (duplicateList[t] == "Sarah") 
-                //    {
-                //    Console.WriteLine("Sarah is a duplicate!");
-                //    }
-                //else
-                //    {
-                //    duplicateList.Add(duplicateList[t]);
-                //    Console.WriteLine("Sarah isn't a duplicate");
-                //    }
-           
-             
+                
+                if (duplicateList.Contains(listItems3[t]))
+                {
+                    
+                    Console.WriteLine(listItems3[t] + " is a duplicate!");
+                }
+                else
+                {
+                    duplicateList.Add(listItems3[t]);
+                    Console.WriteLine(listItems3[t] + " isn't a duplicate");
+                }
+            Console.ReadLine();
+
 
         }
     }
