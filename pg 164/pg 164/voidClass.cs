@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace pg_164
 {
@@ -11,6 +8,11 @@ namespace pg_164
         public void voidMethod(int x)
         {
             int num = x / 2;
+            Console.WriteLine("Your number divided by 2 is: " + num);
         }
+
+
+        
     }
 }
+
