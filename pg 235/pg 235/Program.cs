@@ -21,8 +21,13 @@ namespace pg_235
                     {
                         Console.WriteLine("You are " + nowDate.AddYears(-age).Year + " years old.");
                         Console.ReadLine();
-
                     }
+                    else
+                    {
+                        Console.WriteLine("Please enter a valid age.");
+                        Console.ReadLine();
+                    }
+
                 }
 
                 catch (FormatException)
