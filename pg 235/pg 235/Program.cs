@@ -17,7 +17,7 @@ namespace pg_235
                 try
                 {
                     int age = Convert.ToInt32(Console.ReadLine());
-                    if (age <= 0)
+                    if (age > 0)
                     {
                         Console.WriteLine("You are " + nowDate.AddYears(-age).Year + " years old.");
                         Console.ReadLine();
